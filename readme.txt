@@ -1,6 +1,6 @@
 === Google Tag Manager ===
 Contributors: justinrains
-Tags: javascript, google, tagmanager
+Tags: javascript, google, tagmanager, analytics
 Donate link: https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=QLNJ6YW93YULQ
 Requires at least: 2.7
 Tested up to: 4.1.2
