@@ -3,8 +3,8 @@ Contributors: justinrains
 Tags: javascript, google, tagmanager, analytics
 Donate link: https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=QLNJ6YW93YULQ
 Requires at least: 2.7
-Tested up to: 4.1.2
-Stable tag: 1.0.1
+Tested up to: 4.2
+Stable tag: 1.0.2
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
