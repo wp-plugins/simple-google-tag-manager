@@ -34,7 +34,7 @@ function admin_menu_googletagmanager() {
 }
 
 function options_page_googletagmanager() {
-  include(WP_PLUGIN_DIR.'/googletagmanager/options.php');  
+  include(WP_PLUGIN_DIR.'/simple-google-tagm-anager/options.php');  
 }
 
 function googletagmanager() {
