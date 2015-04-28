@@ -3,7 +3,7 @@
 Plugin Name: Google Tag Manager
 Plugin URI: http://wordpress.org/extend/plugins/googleanalytics/
 Description: Enables <a href="http://www.google.com/tagmanager/" target="_blank">Google Tag Manager</a> on all pages.
-Version: 1.0.0
+Version: 1.0.3
 Author: Justin Rains
 Author URI: http://portalplanet.net/tagmanager/
 */
@@ -34,7 +34,7 @@ function admin_menu_googletagmanager() {
 }
 
 function options_page_googletagmanager() {
-  include(WP_PLUGIN_DIR.'/simple-google-tagm-anager/options.php');  
+  include(WP_PLUGIN_DIR.'/simple-google-tag-manager/options.php');  
 }
 
 function googletagmanager() {
