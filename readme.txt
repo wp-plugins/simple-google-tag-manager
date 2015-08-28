@@ -3,7 +3,7 @@ Contributors: justinrains
 Tags: javascript, google, tagmanager, analytics
 Donate link: https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=QLNJ6YW93YULQ
 Requires at least: 2.7
-Tested up to: 4.2
+Tested up to: 4.2.4
 Stable tag: 1.0.2
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
@@ -25,7 +25,9 @@ For more information visit:
 3. Add the tag ID from Google Tag Manager (GTM-XXXXXX) to the settings (Admin > Settings > Google Tag Manager)
 
 To get this to work one final step is required. Edit where your theme creates the <body> tag and right after that place this code:
-<?php do_action( 'body_open' ); ?>
+< ? p h p do_action( 'body_open' );  ? >
+
+(Without the spaces)
 
 Mine was in header.php
 
